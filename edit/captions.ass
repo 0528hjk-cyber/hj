@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Base,Pretendard SemiBold,54,&H00FFFFFF,&H00FFFFFF,&H00303030,&H80000000,0,0,0,0,100,100,0,0,1,1.6,2,2,60,60,78,1
+Style: Yellow,Pretendard SemiBold,42,&H0063E6F5,&H0063E6F5,&H00303030,&H80000000,0,0,0,0,100,100,0,0,1,1.4,2,2,60,60,146,1
+Style: Pink,NanumSquareRound ExtraBold,118,&H00B87BF2,&H00B87BF2,&H00FFFFFF,&H60000000,0,0,0,0,100,100,0,0,1,3,2,5,60,60,0,1
+Style: Serif,EB Garamond 12,140,&H00B87BF2,&H00B87BF2,&H00FFFFFF,&H60000000,0,0,0,0,100,100,0,0,1,2.2,2,5,60,60,0,1
+Style: Hand,NanumBarunpen Bold,120,&H00A25FFF,&H00A25FFF,&H00FFFFFF,&H50000000,1,0,0,0,100,100,0,0,1,4,2,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.00,Base,,0,0,0,,오늘도 그냥 걷는 하루.....
+Dialogue: 0,0:00:01.20,0:00:04.00,Pink,,0,0,0,,산책 갑니데이
+Dialogue: 0,0:00:04.00,0:00:07.00,Base,,0,0,0,,목적지 없음 · 계획 없음
+Dialogue: 0,0:00:07.00,0:00:10.50,Yellow,,0,0,0,,오늘의 착장
+Dialogue: 0,0:00:07.00,0:00:10.50,Base,,0,0,0,,스트라이프 셔츠 + 회색 티 + 청바지
+Dialogue: 0,0:00:10.50,0:00:13.50,Base,,0,0,0,,편한 게 최고야.....
+Dialogue: 0,0:00:13.70,0:00:19.00,Serif,,0,0,0,,6:35pm
+Dialogue: 0,0:00:14.50,0:00:19.00,Base,,0,0,0,,배고파서 일단 들어옴
+Dialogue: 0,0:00:19.00,0:00:21.50,Base,,0,0,0,,메뉴 고민 3초 컷
+Dialogue: 0,0:00:21.50,0:00:25.50,Yellow,,0,0,0,,벽에 적힌 거 보니까
+Dialogue: 0,0:00:21.50,0:00:25.50,Base,,0,0,0,,오래된 집이라는 사실.. 믿음 간다
+Dialogue: 0,0:00:25.50,0:00:28.00,Base,,0,0,0,,밑반찬 세팅 완료
+Dialogue: 0,0:00:28.40,0:00:34.00,Pink,,0,0,0,,감자탕 비주얼 무엇
+Dialogue: 0,0:00:28.00,0:00:34.00,Base,,0,0,0,,감자가 통째로 들어있어요
+Dialogue: 0,0:00:34.00,0:00:35.60,Base,,0,0,0,,깍두기는 국룰
+Dialogue: 0,0:00:35.60,0:00:37.90,Base,,0,0,0,,공기밥까지 풀세트
+Dialogue: 0,0:00:37.90,0:00:42.90,Base,,0,0,0,,이제부터 말 없음
+Dialogue: 0,0:00:42.90,0:00:47.90,Yellow,,0,0,0,,국물 한 입 먹자마자
+Dialogue: 0,0:00:42.90,0:00:47.90,Base,,0,0,0,,하루 피로가 녹는 맛..
+Dialogue: 0,0:00:48.40,0:00:52.90,Pink,,0,0,0,,밥 말아버림
+Dialogue: 0,0:00:47.90,0:00:52.90,Base,,0,0,0,,감자탕은 밥 말아야 완성 ㄹㅇ
+Dialogue: 0,0:00:53.10,0:00:56.90,Serif,,0,0,0,,7:17pm
+Dialogue: 0,0:00:53.50,0:00:56.90,Base,,0,0,0,,배부르니까 카페로 이동
+Dialogue: 0,0:00:56.90,0:01:03.90,Yellow,,0,0,0,,카페 오면 제일 먼저 하는 일
+Dialogue: 0,0:00:56.90,0:01:03.90,Base,,0,0,0,,화장 고치기 (중요)
+Dialogue: 0,0:01:03.90,0:01:08.90,Base,,0,0,0,,커피 마시면서 수다 타임 ^^
+Dialogue: 0,0:01:09.10,0:01:11.90,Serif,,0,0,0,,7:54pm
+Dialogue: 0,0:01:09.50,0:01:11.90,Base,,0,0,0,,소화시킬 겸 서점 구경
+Dialogue: 0,0:01:11.90,0:01:15.90,Base,,0,0,0,,베스트셀러부터 일단 펼쳐봄
+Dialogue: 0,0:01:16.10,0:01:18.40,Pink,,0,0,0,,다크 심리학..?
+Dialogue: 0,0:01:18.40,0:01:22.40,Yellow,,0,0,0,,제목에 끌려서 결국
+Dialogue: 0,0:01:18.40,0:01:22.40,Base,,0,0,0,,집어 들고 서서 읽는 중
+Dialogue: 0,0:01:22.40,0:01:27.40,Base,,0,0,0,,생각보다 술술 읽혀서 당황.....
+Dialogue: 0,0:01:27.60,0:01:30.90,Serif,,0,0,0,,9:17pm
+Dialogue: 0,0:01:28.00,0:01:30.90,Base,,0,0,0,,한 군데 더 들렀어요
+Dialogue: 0,0:01:30.90,0:01:33.90,Serif,,0,0,0,,Aladin
+Dialogue: 0,0:01:33.90,0:01:39.90,Base,,0,0,0,,책 표지 구경하는 거 은근 재밌음
+Dialogue: 0,0:01:39.90,0:01:42.90,Base,,0,0,0,,사고 싶은 건 많지만 오늘은 참기
+Dialogue: 0,0:01:42.90,0:01:48.90,Yellow,,0,0,0,,마지막 코스
+Dialogue: 0,0:01:42.90,0:01:48.90,Base,,0,0,0,,소품샵 구경하다가
+Dialogue: 0,0:01:49.70,0:01:54.90,Hand,,0,0,0,,오늘도 무사히 하루 끝
+Dialogue: 0,0:01:49.70,0:01:54.90,Base,,0,0,0,,오늘은 여기까지!
